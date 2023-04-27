@@ -1,0 +1,86 @@
+[
+  {
+      "name": "Shuriken",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_shuriken.png",
+      "codes": "shuriken",
+  },
+  {
+      "name": "Rolling Shuriken",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_rollingshuriken.png",
+      "codes": "rolling_shuriken",
+  },
+  {
+      "name": "Earth Spear",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_earthspear.png",
+      "codes": "earth_spear",
+  },
+  {
+      "name": "Flare Gun",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_flaregun.png",
+      "codes": "flare_gun",
+  },
+  {
+      "name": "Bomb",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_bomb.png",
+      "codes": "bomb",
+  },
+  {
+      "name": "Chakram",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_chakram.png",
+      "codes": "chakram",
+  },
+  {
+      "name": "Caltrops",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_caltrops.png",
+      "codes": "caltrops",
+  },
+  {
+      "name": "Pistol",
+      "type": "toggle",
+      "img": "images/Sub Weapons/Icon_pistol.png",
+      "codes": "pistol",
+  },
+  {
+      "name": "Shield",
+      "type": "progressive",
+      "codes": "shuriken",
+      "allow_disabled": true,
+      "stages": [
+        {
+          "img": "images/Sub Weapons/Icon_buckler.png",
+          "codes": "buckler",
+          "inherit_codes": true
+        },
+        {
+          "img": "images/Sub Weapons/Icon_silvershield2.png",
+          "codes": "fake_silver_shield",
+          "inherit_codes": true
+        },
+        {
+          "img": "images/Sub Weapons/Icon_silvershield.png",
+          "codes": "silver_shield",
+          "inherit_codes": true
+        },
+        {
+          "img": "images/Sub Weapons/Icon_angelshield.png",
+          "codes": "angel_shield",
+          "inherit_codes": true
+        }
+      ]
+  },
+  {
+      "name": "Ankh Jewel",
+      "type": "consumable",
+      "img": "images/Sub Weapons/Icon_ankhjewel.png",
+      "codes": "ankh_jewel",
+      "max_quantity": 9,
+      "overlay_font_size": 14
+  }
+]

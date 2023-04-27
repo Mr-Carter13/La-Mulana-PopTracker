@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Hand Scanner",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_handscanner.png",
+        "codes": "hand_scanner",
+    },
+    {
+        "name": "Djed Pillar",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_djedpillar.png",
+        "codes": "djed_pillar",
+    },
+    {
+        "name": "Mini Doll",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_minidoll.png",
+        "codes": "mini_doll",
+    },
+    {
+        "name": "Magatama Jewel",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_magatamajewel.png",
+        "codes": "magatama_jewel",
+    },
+    {
+        "name": "Cog of the Soul",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_cogofthesoul.png",
+        "codes": "cog_of_the_soul",
+    },
+    {
+        "name": "Lamp of Time",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_lampoftime.png",
+        "codes": "lamp_of_time",
+    },
+    {
+        "name": "Pochette Key",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_pochettekey.png",
+        "codes": "pochette_key",
+    },
+    {
+        "name": "Dragon Bone",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_dragonbone.png",
+        "codes": "dragon_bone",
+    },
+    {
+        "name": "Crystal Skull",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_crystalskull.png",
+        "codes": "crystal_skull",
+    },
+    {
+        "name": "Vessel",
+        "type": "progressive",
+        "img": "images/Equipment/Icon_vessel.png",
+        "codes": "vessel",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Equipment/medicineofthemind.png"
+                "codes": "medicineofthemind_yellow",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/medicineofthemind_green.png",
+                "codes": "medicineofthemind_green",
+                "inherit_codes": true
+            },
+            {
+                "img": "images/items/medicineofthemind_red.png",
+                "codes": "medicineofthemind_red",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Pepper",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_pepper.png",
+        "codes": "pepper",
+    },
+    {
+        "name": "Woman Statue",
+        "type": "progressive",
+        "img": "images/Equipment/Icon_womanstatue.png",
+        "codes": "woman_statue",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Equipment/Icon_maternitystatue.png",
+                "codes": "maternity_statue",
+                "inherit_codes": true
+            }
+        ]
+    },
+    {
+        "name": "Key of Eternity",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_keyofeternity.png",
+        "codes": "key_of_eternity",
+    },
+    {
+        "name": "Serpent Staff",
+        "type": "toggle",
+        "img": "images/Equipment/Icon_serpentstaff.png",
+        "codes": "serpent_staff",
+    },
+    {
+        "name": "Talisman",
+        "type": "progressive",
+        "img": "images/Equipment/Icon_talisman.png",
+        "codes": "talisman",
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Equipment/Icon_diary.png",
+                "codes": "diary",
+            },
+            {
+                "img": "images/Equipment/Icon_mulanatalisman.png",
+                "codes": "mulana_talisman",
+            }
+        ]
+    },
+]

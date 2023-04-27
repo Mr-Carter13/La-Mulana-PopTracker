@@ -1,0 +1,122 @@
+[
+  {
+      "name": "reader.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_reader.png",
+      "codes": "software_reader",
+  },
+  {
+      "name": "xmailer.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_xmailer.png",
+      "codes": "software_xmailer",
+  },
+  {
+      "name": "yagomap.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_yagomap.png",
+      "codes": "software_yagomap",
+  },
+  {
+      "name": "yagostr.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_yagostr.png",
+      "codes": "software_yagostr",
+  },
+  {
+      "name": "bunemon.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_bunemon.png",
+      "codes": "software_bunemon",
+  },
+  {
+      "name": "bunplus.com",
+      "type": "toggle",
+      "img": "images/Software/Icon_bunplus.png",
+      "codes": "software_bunplus",
+  },
+  {
+      "name": "torude.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_torude.png",
+      "codes": "software_torude",
+  },
+  {
+      "name": "guild.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_guild.png",
+      "codes": "software_guild",
+  },
+  {
+      "name": "mantra.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_mantra.png",
+      "codes": "software_mantra",
+  },
+  {
+      "name": "emusic.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_emusic.png",
+      "codes": "software_emusic",
+  },
+  {
+      "name": "beolamu.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_beolamu.png",
+      "codes": "software_beolamu",
+  },
+  {
+      "name": "deathv.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_deathv.png",
+      "codes": "software_deathv",
+  },
+  {
+      "name": "randc.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_randc.png",
+      "codes": "software_randc",
+  },
+  {
+      "name": "capstar.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_capstar.png",
+      "codes": "software_capstar",
+  },
+  {
+      "name": "move.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_move.png",
+      "codes": "software_move",
+  },
+  {
+      "name": "mekuri.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_mekuri.png",
+      "codes": "software_mekuri",
+  },
+  {
+      "name": "bounce.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_bounce.png",
+      "codes": "software_bounce",
+  },
+  {
+      "name": "miracle.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_miracle.png",
+      "codes": "software_miracle",
+  },
+  {
+      "name": "mirai.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_mirai.png",
+      "codes": "software_mirai",
+  },
+  {
+      "name": "lamulana.exe",
+      "type": "toggle",
+      "img": "images/Software/Icon_lamulana.png",
+      "codes": "software_lamulana",
+  }
+]

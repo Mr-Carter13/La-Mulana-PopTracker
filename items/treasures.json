@@ -1,0 +1,204 @@
+[
+  {
+      "name": "MSX2",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_msx2.png",
+      "codes": "msx2",
+  },
+  {
+      "name": "Waterproof Case",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_waterproofcase.png",
+      "codes": "waterproof_case",
+  },
+  {
+      "name": "Heatproof Case",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_heatproofcase.png",
+      "codes": "heatproof_case",
+  },
+  {
+      "name": "Shell Horn",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_shellhorn.png",
+      "codes": "shell_horn",
+  },
+  {
+      "name": "Glove",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_glove.png",
+      "codes": "glove",
+  },
+  {
+      "name": "Holy Grail",
+      "type": "progressive",
+      "codes": "progressive_grail",
+      "allow_disabled": true,
+      "stages": [
+        {
+          "img": "images/Treasures/Icon_holygrail.png",
+          "codes": "holy_grail"
+        },
+        {
+          "img": "images/Treasures/Icon_holygrail3.png",
+          "codes": "holy_grail_empowered",
+          "inherit_codes": true
+        },
+        {
+        "img": "images/Treasures/Icon_holygrail2.png",
+        "codes": "holy_grail_broken",
+        "inherit_codes": false
+        }
+      ]
+  },
+  {
+      "name": "Isis' Pendant",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_isispendant.png",
+      "codes": "isis_pendant",
+  },
+  {
+      "name": "Crucifix",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_crucifix.png",
+      "codes": "crucifix",
+  },
+  {
+      "name": "Helmet",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_helmet.png",
+      "codes": "helmet",
+  },
+  {
+      "name": "Grapple Claw",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_grappleclaw.png",
+      "codes": "grapple_claw",
+  },
+  {
+      "name": "Bronze Mirror",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_bronzemirror.png",
+      "codes": "bronze_mirror",
+  },
+  {
+      "name": "Eye of Truth",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_eyeoftruth.png",
+      "codes": "eye_of_truth",
+  },
+  {
+      "name": "Ring",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_ring.png",
+      "codes": "ring",
+  },
+  {
+      "name": "Scalesphere",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_scalesphere.png",
+      "codes": "scalesphere",
+  },
+  {
+      "name": "Gauntlet",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_gauntlet.png",
+      "codes": "gauntlet",
+  },
+  {
+      "name": "Treasures",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_treasures.png",
+      "codes": "treasures",
+  },
+  {
+      "name": "Anchor",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_anchor.png",
+      "codes": "anchor",
+  },
+  {
+      "name": "Plane Model",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_planemodel.png",
+      "codes": "plane_model",
+  },
+  {
+      "name": "Philosophers' Ocarina",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_philosophersocarina.png",
+      "codes": "philosophers_ocarina",
+  },
+  {
+      "name": "Feather",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_feather.png",
+      "codes": "feather",
+  },
+  {
+      "name": "Book of the Dead",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_bookofthedead.png",
+      "codes": "book_of_the_dead",
+  },
+  {
+      "name": "Fairy Clothes",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_fairyclothes.png",
+      "codes": "fairy_clothes",
+  },
+  {
+      "name": "Scriptures",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_scriptures.png",
+      "codes": "scriptures",
+  },
+  {
+      "name": "Hermes' Boots",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_hermesboots.png",
+      "codes": "hermes_boots",
+  },
+  {
+      "name": "Fruit of Eden",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_fruitofeden.png",
+      "codes": "fruit_of_eden",
+  },
+  {
+      "name": "Twin Statue",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_twinstatue.png",
+      "codes": "twin_statue",
+  },
+  {
+      "name": "Bracelet",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_bracelet.png",
+      "codes": "bracelet",
+  },
+  {
+      "name": "Perfume",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_perfume.png",
+      "codes": "perfume",
+  },
+  {
+      "name": "Spaulder",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_spaulder.png",
+      "codes": "spaulder",
+  },
+  {
+      "name": "Dimensional Key",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_dimensionalkey.png",
+      "codes": "dimensional_key",
+  },
+  {
+      "name": "Ice Cape",
+      "type": "toggle",
+      "img": "images/Treasures/Icon_icecape.png",
+      "codes": "ice_cape",
+  }
+]

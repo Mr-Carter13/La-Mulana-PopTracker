@@ -1,0 +1,62 @@
+[
+  {
+      "name": "Birth",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_birth.png",
+      "codes": "mantra_birth",
+  },
+  {
+      "name": "Death",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_death.png",
+      "codes": "mantra_death",
+  },
+  {
+      "name": "Marduk",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_marduk.png",
+      "codes": "mantra_marduk",
+  },
+  {
+      "name": "Sabbat",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_Sabbat.png",
+      "codes": "mantra_Sabbat",
+  },
+  {
+      "name": "Mu",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_mu.png",
+      "codes": "mantra_mu",
+  },
+  {
+      "name": "Viy",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_viy.png",
+      "codes": "mantra_viy",
+  },
+  {
+      "name": "Bahrun",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_bahrun.png",
+      "codes": "mantra_bahrun",
+  },
+  {
+      "name": "Wedjet",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_wedjet.png",
+      "codes": "mantra_wedjet",
+  },
+  {
+      "name": "Abuto",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_abuto.png",
+      "codes": "mantra_abuto",
+  },
+  {
+      "name": "Lamulana",
+      "type": "toggle",
+      "img": "images/Mantras/mantra_lamulana.png",
+      "codes": "mantra_lamulana",
+  }
+]

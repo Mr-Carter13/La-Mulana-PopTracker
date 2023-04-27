@@ -1,0 +1,54 @@
+[
+  {
+      "name": "Progressive Whip",
+      "type": "progressive",
+      "codes": "progressive_whip",
+      "allow_disabled": true,
+      "stages": [
+          {
+              "img": "images/Main Weapons/Icon_whip.png",
+              "codes": "whip",
+              "inherit_codes": true
+          },
+          {
+              "img": "images/Main Weapons/Icon_chainwhip.png",
+              "codes": "chain_whip",
+              "inherit_codes": true
+          },
+          {
+              "img": "images/Main Weapons/Icon_flailwhip.png",
+              "codes": "flail_whip",
+              "inherit_codes": true
+          }
+      ]
+  },
+  {
+      "name": "Knife",
+      "type": "toggle",
+      "img": "images/Main Weapons/Icon_knife.png",
+      "codes": "knife",
+  },
+  {
+      "name": "Key Sword",
+      "type": "progressive",
+      "allow_disabled": true,
+      "stages": [
+          {
+              "img": "images/Main Weapons/Icon_keysword.png",
+              "codes": "keysword",
+              "inherit_codes": true
+          },
+          {
+              "img": "images/Main Weapons/Icon_keysword_empowered.png",
+              "codes": "keysword_empowered",
+              "inherit_codes": true
+          }
+      ]
+  },
+  {
+      "name": "Katana",
+      "type": "toggle",
+      "img": "images/Main Weapons/Icon_katana.png",
+      "codes": "katana",
+  },
+]

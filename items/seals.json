@@ -1,0 +1,26 @@
+[
+  {
+      "name": "Origin Seal",
+      "type": "toggle",
+      "img": "images/Seals/originseal.png",
+      "codes": "seal_origin",
+  },
+  {
+      "name": "Birth Seal",
+      "type": "toggle",
+      "img": "images/Seals/birthseal.png",
+      "codes": "seal_birth",
+  },
+  {
+      "name": "Life Seal",
+      "type": "toggle",
+      "img": "images/Seals/lifeseal.png",
+      "codes": "seal_life",
+  },
+  {
+      "name": "Death Seal",
+      "type": "toggle",
+      "img": "images/Seals/deathseal.png",
+      "codes": "seal_death",
+  },
+]
