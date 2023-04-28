@@ -2,7 +2,7 @@
 
 **EXTREMELY WIP**
 
-La-Mulana Remake Item and Map tracker for PopTracker.
+La-Mulana Remake Archipelago Item and Map tracker for PopTracker.
 
 PopTracker can be found [here](https://github.com/black-sliver/PopTracker/releases).
 
